@@ -1,6 +1,6 @@
 # OneTable
 
-![OneTable Logo](https://raw.githubusercontent.com/metagamma/OneTable/main/assets/logo.svg)
+![OneTable Logo](https://raw.githubusercontent.com/metagamma/OneTable/42be885980d23e2b378712b1a96e8372fc2cbc17/assets/logo.svg)
 
 OneTable is a powerful Windows desktop application that streamlines the process of migrating Excel data to SQLite databases. Built with .NET 8, it enables users to efficiently handle multiple Excel files simultaneously, converting worksheets into queryable SQLite tables for enhanced data analysis and reporting capabilities.
 
