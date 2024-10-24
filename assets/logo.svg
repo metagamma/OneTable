@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+    <!-- Base square with rounded corners -->
+    <rect 
+        x="30" 
+        y="30" 
+        width="140" 
+        height="140" 
+        rx="12" 
+        fill="#2D3748"
+    />
+    
+    <!-- Stylized table grid -->
+    <path d="
+        M 60 60
+        L 140 60
+        L 140 140
+        L 60 140
+        Z
+        M 60 87
+        L 140 87
+        M 100 60
+        L 100 140
+    " 
+    fill="none" 
+    stroke="#E2E8F0" 
+    stroke-width="8"
+    stroke-linejoin="round"
+    />
+    
+    <!-- Accent element -->
+    <rect 
+        x="112" 
+        y="102" 
+        width="16" 
+        height="16" 
+        fill="#38B2AC"
+        transform="rotate(45 120 110)"
+    />
+</svg>
