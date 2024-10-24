@@ -50,6 +50,20 @@ dotnet build
 dotnet run
 ```
 
+## 🌐 Supported Languages
+
+OneTable's interface is available in multiple languages to serve a global user base:
+
+### Currently Supported
+
+| Language   | Code | Status             | Completion |
+|------------|------|-------------------|------------|
+| English    | en   | ✅ Complete        | 100%       |
+| Spanish    | es   | ✅ Complete        | 100%       |
+| French     | fr   | ✅ Complete        | 100%       |
+| Portuguese | pt   | ✅ Complete        | 100%       |
+| German     | de   | ✅ Complete        | 100%       |
+
 ## 📦 Dependencies
 
 - System.Data.SQLite (1.0.119)
